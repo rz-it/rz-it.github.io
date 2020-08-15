@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Caveat
+name: Reaper Zone Italia
 
 # Short bio or description (displayed in the header)
 description: Il blog si propone di presentare contenuti come podcast o tutorial riguardo il DAW Reaper e l'editing audio in generale.
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: https://Christianlm.github.io/feed.xml
+  rss: https://rz-it.github.io/feed.xml
   twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
