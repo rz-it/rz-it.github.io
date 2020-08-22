@@ -1,0 +1,32 @@
+ {% if page.series %}
+  {% assign count = '0' %}
+  {% assign idx = '0' %}
+  {% for post in site.posts reversed %}
+      {% if post.series == page.series %}
+          {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+          {% if post.url == page.url %}
+              {% capture idx %}{{count}}{% endcapture %}
+          {% endif %}
+      {% endif %}
+  {% endfor %}
+ {% endif %}
+   <div class="panel seriesNote" >
+      <p>Dalla serie ReaPodcast:</p>
+
+      <table><tr><th>Episodio</th><th>Titolo</th></tr>
+      {% assign count = '0' %}
+      {% for post in site.posts reversed %}
+      {% if post.series == page.series %}
+          {% capture count %}{{ count | plus: '1' }}{% endcapture %}
+          <tr><td>{{ count }} </td><td>
+          {% if page.url == post.url %}
+              Pagina corrente, {{post.title}} 
+          {% else %}
+              <a href="{{post.url}}">{{post.title}}</a>
+          {% endif %}
+          </td></tr>
+      {% endif %}
+      {% endfor %}
+      </table>
+  </div>
+  

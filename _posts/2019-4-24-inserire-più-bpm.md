@@ -1,9 +1,12 @@
 ﻿---
 title: Inserire più BPM in un progetto, trovare il BPM di un item.
 layout: post
+series: reapodcast
 ---
 
 <footer>Mercoledì, 24 aprile 2019</footer>
+
+{% include series.html %}
 
 In questa prima puntata faremo una breve panoramica sui signature marker, come inserirli, come cambiare istantaneamente il BPM durante la riproduzione del progetto e come cambiare il BPM gradualmente da un marker ad un altro.
 

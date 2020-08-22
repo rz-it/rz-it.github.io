@@ -1,9 +1,12 @@
 ﻿---
 title: DB, RMS e LUFS
 layout: post
+series: reapodcast
 ---
 
 <footer>Martedì, 4 giugno 2019</footer>
+
+{% include series.html %}
 
 In questa puntata parleremo del volume, partendo dai DB, i decibel, degli RMS, gli Root mean square, ovvero la media del volume di un flusso audio, e dei LUFS, i Loudness unit in reference at full scale, che corrispondono al volume percepito.
 

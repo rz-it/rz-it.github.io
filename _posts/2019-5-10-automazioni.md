@@ -1,8 +1,11 @@
 ﻿---
 title: Fare le automazioni con una superfice di controllo midi o con la tastiera del computer
 layout: post
+series: reapodcast
 ---
 <footer>Venerdì, 10 maggio 2019 </footer>
+
+{% include series.html %}
 
 In questa puntata c’immergeremo nel mondo delle automazioni con il nostro DAW.
 

@@ -1,9 +1,12 @@
 ﻿---
 title: Marker di un punto del progetto e usare gli stretch markers
 layout: post
+series: reapodcast
 ---
 
 <footer>Martedì, 30 aprile 2019</footer>
+
+{% include series.html %}
 
 In questa puntata faremo una Breve panoramica sui marker che ci portano in un punto del progetto, come crearli, nominarli, come navigarci e come cancellarli.
 
