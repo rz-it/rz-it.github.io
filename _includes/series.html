@@ -12,7 +12,6 @@
  {% endif %}
    <div class="panel seriesNote" >
       <p>Dalla serie ReaPodcast:</p>
-
       <table><tr><th>Episodio</th><th>Titolo</th></tr>
       {% assign count = '0' %}
       {% for post in site.posts reversed %}
@@ -28,6 +27,8 @@
       {% endif %}
       {% endfor %}
     </table>
-          <h3>{{post.title}}</h3>
+      {% if page.series == 'reapodcast' %}
+      <h3>{{post.title}}</h3>
+      {% endif %}
   </div>
   
