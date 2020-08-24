@@ -10,8 +10,9 @@ layout: default
   </div>
 
   <div class="date">
-    Pagina aggiornata il {{ page.date | date: "%e %m, %Y" }}
+    Scritto da <a href="{{ author.web }}">{{ author.display_name }}</a> il {{ page.date | date: "%e %m, %Y" }}
   </div>
-
-  {% include disqus.html %}
 </article>
+
+{% assign author = site.authors[page.author] %}
+

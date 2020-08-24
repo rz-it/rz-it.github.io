@@ -1,6 +1,7 @@
 ﻿---
 title: Synchronous Audio Router; Driver Asio per indirizzare i drivers WDM di Windows. E' accessibile!
 layout: post
+author: Lo-lo78
 ---
  <footer>Sabato, 4 luglio 2020 alle ore 21:05, dalla lista di discussione italiana AudioReaper</footer>
 

@@ -1,6 +1,7 @@
 ﻿---
 title: BassMidi VST della Falcosoft, un ottimo lettore free accessibile di SoundFont.
 layout: post
+author: Lo-lo78
 ---
  <footer>Lunedì, 6 gennaio     2020 alle ore 19:01, dalla lista di discussione italiana AudioReaper</footer>
 
