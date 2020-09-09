@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: Link Utili
-permalink: /linkUtili/
+permalink: /linksUtili/
 ---
 
 
