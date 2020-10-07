@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primi accenni tracce e parametri.
-author: Dessolis
+author: Andrea
 series: atdessolis
 youtubeId: nSDXYM-vPs0
 

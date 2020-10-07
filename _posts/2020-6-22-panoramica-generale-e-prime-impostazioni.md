@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Panoramica generale e prime impostazioni.
-author: Dessolis
+author: Andrea
 series: atdessolis
 youtubeId: LmKIjDIA9-Y
 

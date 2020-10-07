@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Installazione di Reaper, OSARA ed SWS Extension.
-author: Dessolis
+author: andrea
 series: atdessolis
 youtubeId: 1fsqeyhZL1U
 
