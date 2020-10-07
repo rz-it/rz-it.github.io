@@ -86,6 +86,9 @@ exclude:
   - CNAME
 
 authors:
+  dessolis:
+   name: dessolis
+   display_name: Andrea Dessolis
   Lo-lo78:
     name: Lo-lo78
     display_name: Manolo
