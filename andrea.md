@@ -1,6 +1,6 @@
 ---
-title: Andrea-Dessolis
-permalink: "/dessolis/"
+title: Andrea
+permalink: "/andrea/"
 layout: page
 ---
 
