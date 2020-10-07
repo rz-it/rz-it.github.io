@@ -87,8 +87,8 @@ exclude:
 
 authors:
   Andrea:
-   name: andrea
-   display_name: Andrea
+    name: andrea
+    display_name: Andrea
     web: https://rz-it.github.io/andrea
   Lo-lo78:
     name: Lo-lo78
