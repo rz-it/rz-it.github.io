@@ -86,9 +86,10 @@ exclude:
   - CNAME
 
 authors:
-  dessolis:
-   name: dessolis
-   display_name: Andrea Dessolis
+  Dessolis:
+   name: Dessolis
+   display_name: Andrea
+    web: https://rz-it.github.io/dessolis
   Lo-lo78:
     name: Lo-lo78
     display_name: Manolo
