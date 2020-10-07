@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Panoramica generale e prime impostazioni.
 author: Andrea
