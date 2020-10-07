@@ -1,5 +1,5 @@
 ---
-title: Andrea Dessolis
+title: Andrea-Dessolis
 permalink: "/dessolis/"
 layout: page
 ---
