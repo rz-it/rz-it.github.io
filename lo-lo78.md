@@ -1,5 +1,5 @@
 ---
-title: Lo-lo78
+title: Manolo
 permalink: "/lo-lo78/"
 layout: page
 ---
