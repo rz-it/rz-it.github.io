@@ -7,8 +7,6 @@ permalink: /linksUtili/
 
 [Sito di Reaper](https://www.reaper.fm/)
 
-[Sito delle versioni beta di Reaper](https://landoleet.org/)
-
 [OSARA snapshots.](https://osara.reaperaccessibility.com/snapshots/) E' un  necessario componente aggiuntivo, sia per Windows che per Mac, che  rende accessibile Reaper con tutti gli screen reader.
 
 [SWS/S&M EXTENSION](http://www.sws-extension.org/) è un insieme di funzioni che si integrano perfettamente in REAPER.
@@ -68,7 +66,7 @@ Si tratta di una collaborazione e di un progetto open source.
 
 [sws sourceCode](https://github.com/reaper-oss/sws)
 
-[eiz/SynchronousAudioRouter: ](https://github.com/eiz/SynchronousAudioRouter) Low latency application audio routing for Windows - Mozilla Firefox.
+[eiz/SynchronousAudioRouter: ](https://github.com/eiz/SynchronousAudioRouter) Low latency application audio routing for Windows
 
 ### Link vari ###
 
