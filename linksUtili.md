@@ -14,7 +14,7 @@ Si tratta di una collaborazione e di un progetto open source.
 
 [ReaPack](https://reapack.com/) è un gestore di pacchetti per REAPER. Serve a mantenere aggiornato le risorse di Reaper, compreso il ReaScripts, JS effetti, estensioni, temi, language pack, modelli di interfacce web e di più.
 
-[FFmpeg](https://ffmpeg.org) è una soluzione completa e multipiattaforma per registrare, convertire e riprodurre in streaming audio e video. Molto utile con Reaper per renderizzare  video con l'audio.
+[FFmpeg](https://ffmpeg.org) è una soluzione completa e multipiattaforma per registrare, convertire e riprodurre in streaming audio e video. Molto utile con Reaper per renderizzare  video e audio.
 
 ### Youtube e Podcast ###
 
